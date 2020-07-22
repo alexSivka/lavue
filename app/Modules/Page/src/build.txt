@@ -1,0 +1,7 @@
+
+dev
+vue-cli-service build --watch  --target lib --name ModulePageList src/ModulePageList.vue --formats umd-min --no-clean
+vue-cli-service build --watch  --target lib --name ModulePageEdit src/ModulePageEdit.vue --formats umd-min --no-clean
+
+prod
+vue-cli-service build --target lib --name ModulePageList src/ModulePageList.vue --formats umd-min --mode production --no-clean
