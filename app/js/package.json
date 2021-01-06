@@ -14,7 +14,7 @@
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^20.0.0",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "browserslist": "^4.12.1",
     "caniuse-lite": "^1.0.30001088",
